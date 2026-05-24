@@ -1,3 +1,9 @@
 @import './fonts.css';
 @import './tailwind.css';
 @import './theme.css';
+
+html, body {
+  background: #1a0533;
+  margin: 0;
+  padding: 0;
+}
